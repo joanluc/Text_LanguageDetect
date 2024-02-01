@@ -1826,6 +1826,7 @@ EOF;
             "estonian" => "Ennetamaks reisil ebameeldivaid vahejuhtumeid vii end kurssi reisidokumentide ja viisade reeglitega ning muu praktilise informatsiooniga",
             "hungarian" => "Hiába jön létre az önkéntes magyar haderő, hiába nem lesz többé bevonulás, változatlanul fennmarad a hadkötelezettség intézménye",
             "uzbek" => "милиция ва уч солиқ идораси ходимлари яраланган. Шаҳарда хавфсизлик чоралари кучайтирилган.",
+            "occitan" => "Faguèron mestièr mantuna annada de trabalh a nòstra equipa per crosar e armonizar las donadas dels diferents obratges.",
 
 
             "czech" => "Francouzský ministr financí zmírnil výhrady vůči nízkým firemním daním v nových členských státech EU",
