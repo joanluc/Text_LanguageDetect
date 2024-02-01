@@ -120,6 +120,7 @@ Supported languages
 - mongolian
 - nepali
 - norwegian
+- occitan
 - pashto
 - pidgin
 - polish
