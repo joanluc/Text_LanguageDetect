@@ -13,6 +13,11 @@
             "email": "taak@php.net",
             "name": "Nicholas Pisarro",
             "role": "Lead"
+        },
+        {
+            "email": "joanluc.laborda@free.fr",
+            "name": "Joan-Lucì Labòrda",
+            "role": "Add Occitan language"
         }
     ],
     "autoload": {
